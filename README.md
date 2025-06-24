@@ -34,9 +34,9 @@ I'm constantly exploring new tools, frameworks, and best practices to sharpen my
 ---
 
 ## 🌟 My GitHub Stats
-![Ahmadien's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Ahmadien's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadienHafizhYusufi&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadienHafizhYusufi&layout=compact&theme=radical)](https://github.com/your-username)
 
 ---
 
