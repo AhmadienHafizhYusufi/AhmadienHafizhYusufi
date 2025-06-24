@@ -29,8 +29,7 @@ I'm constantly exploring new tools, frameworks, and best practices to sharpen my
 
 ## 📫 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmadien-hafizh-yusufi)
-- 🌐 [Portfolio Website](https://ahmadien-portfolio.com)
-- 📧 [Email](mailto:ahmadien.hafizh.yusufi@example.com)
+- 📧 [Email](mailto:ahmadienhafizhyusufi@gmail.com)
 
 ---
 
